@@ -46,7 +46,7 @@ The demonstration uses **Meta’s Q1 2024 Earnings Report** as the primary docum
 
 <a href="https://screenrec.com/share/qY9x5IAkBK" target="_blank">
 
-<img src="https://raw.githubusercontent.com/snehal395jadhav/AI_with_RAD_and_Langchain/main/Screenshot.png"  width="95%"/>
+<img src="https://raw.githubusercontent.com/snehal395jadhav/AI_with_RAG_and_Langchain/main/Screenshot.png"  width="95%"/>
 
 </a>
 
