@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=290&section=header&text=RAG%20WITH%20LANGCHAIN&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Advanced%20Retrieval-Augmented%20Generation%20System&descAlignY=60&descSize=20&animation=fadeIn&color=0:FF0000,16:FF7F00,32:FFFF00,48:00C853,64:00B0FF,80:6A00FF,100:FF00FF"
+    src="https://capsule-render.vercel.app/api?type=waving&height=290&section=header&text=AI%20with%20RAG%20and%20LANGCHAIN&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Advanced%20Retrieval-Augmented%20Generation%20System&descAlignY=60&descSize=20&animation=fadeIn&color=0:FF0000,16:FF7F00,32:FFFF00,48:00C853,64:00B0FF,80:6A00FF,100:FF00FF"
     width="100%"
     alt="RAG with LangChain Header"
   />
@@ -40,6 +40,19 @@ The project demonstrates a complete RAG pipeline using **LangChain**, **LlamaPar
 The demonstration uses **Meta’s Q1 2024 Earnings Report** as the primary document for financial question answering.
 
 ---
+
+## 🎥 Demo Preview
+
+
+<a href="https://screenrec.com/share/qY9x5IAkBK" target="_blank">
+
+<img src="https://raw.githubusercontent.com/snehal395jadhav/AI_with_RAD_and_Langchain/main/Screenshot.png"  width="95%"/>
+
+</a>
+
+👉 [Click here to watch full screen demo](https://screenrec.com/share/qY9x5IAkBK)
+
+
 
 ## Core Capabilities
 
